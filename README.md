@@ -1,6 +1,12 @@
+<br>
+
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
-</p>
+<img width="700" src="https://github.com/user-attachments/assets/9b6b0a51-6411-4e01-96c5-1bb31e6fd986" alt="Microsoft Active Directory Logo"/>
+<br>
+
+<br>
+
+<br>
 
 <h1> Active Directory: User Generation </h1>
 
@@ -14,9 +20,9 @@ In this project, we'll ***Create User Accounts using a Powershell Script*** to p
 
 <h2>Prerequisites</h2>
 
-- <a href="https://github.com/franciscovfonseca/Active-Directory-and-Azure-Setup/blob/main/README.md"> Preliminary Setup for Active Directory and Network Traffic Analysis between Azure VMs </a>
+1. <a href="https://github.com/franciscovfonseca/Active-Directory-and-Azure-Setup/blob/main/README.md"> Active Directory Setup & Network Traffic Analysis between Azure VMs </a>
 
-- <a href="https://github.com/franciscovfonseca/Active-Directory-Deployment-and-Configuration/blob/main/README.md"> Active Directory Deployment and Configuration </a>
+2. <a href="https://github.com/franciscovfonseca/Active-Directory-Deployment-and-Configuration/blob/main/README.md"> Active Directory Deployment & Configuration </a>
 
 <br>
 
