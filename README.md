@@ -28,7 +28,7 @@ In this project, we'll ***Create User Accounts using a Powershell Script*** to p
 
 <h2>Key Objectives</h2>
 
-<h3>🟢 User Creation</h3>
+<h3>✅ User Creation</h3>
 
 -  Create a number of users using a Powershell Script in order to populate our Domain.
 
@@ -54,7 +54,8 @@ In this project, we'll ***Create User Accounts using a Powershell Script*** to p
 
 <h1>User Creation</h1>
 
-<h3>1️⃣ Run PowerShell Script</h3>
+<details close>
+<summary> <h2>1️⃣ Run PowerShell Script</h2> </summary>
 <br>
 
 First we will be using a **Powershell Script** to generate a number of users for our **Active Directory Domain**. 
@@ -132,13 +133,15 @@ Under the ***_USERS*** tab, look at all of the users created from the script.
 <img src="https://github.com/franciscovfonseca/Active-Directory-User-Generation/assets/172988970/35f19e1a-f93f-4e0d-ad0d-5b6bc0ca510d" height="80%" width="80%" alt="9"/><br />
 
 These names are all randomly generated.
+
 <br>
-<br>
+
+  </details>
+
 <h2></h2>
 
-
-
-<h3>2️⃣ Login as User </h3>
+<details close>
+<summary> <h2>2️⃣ Login as User </h2> </summary>
 <br>
 
 Now you can try to login as one of the users to further verify that the script has worked.
@@ -151,14 +154,20 @@ Choose one and log into the **Client VM** with the username it is assigned: (Rem
 <br>
 
 ✅ **Congrats! You completed this tutorial**.
-<br>
-<br>
-<br>
+
 <br>
 
+<br>
 
+  </details>
 
-<h2> Final Thoughts </h2>
+<h2></h2>
+
+<br>
+
+<br>
+
+<h1> Final Thoughts </h1>
 
 In closing, the "**Active Directory User Generation**" project streamlines our *User Management Process*.
 
