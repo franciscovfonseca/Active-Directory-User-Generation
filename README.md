@@ -8,9 +8,14 @@
 
 <br>
 
-<h1> Active Directory: User Generation </h1>
+<h1 align="center">Active Directory: User Generation</h1> 
 
 <br>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/5f249093-d23f-46a5-80ec-159746b436ee" height="100%" width="100%" alt="9"/><br />
+</p>
+<br />
 
 Welcome to the **Active Directory User Generation** project.
 
