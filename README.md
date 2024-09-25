@@ -87,6 +87,10 @@ https://github.com/franciscovfonseca/Active-Directory-Powershell-Script/edit/mai
 <br>
 <br>
 
+💡Here's the step-by-step breakdown of the [Powershell User Bulk Creation Script](https://docs.google.com/document/d/1AWZ-yCNgYB-FL2ntuX38G4cyih4GqLHiO3Qf2P2L9dk/edit#heading=h.fh64943eo6e1)
+
+<br>
+
 After downloading the file, you want to open the script trough **Powershell** as shown in the images bellow:
 
 <img src="https://github.com/franciscovfonseca/Active-Directory-User-Generation/assets/172988970/2063d3ef-9d77-42a4-b1fd-032808874f48" height="85%" width="85%" alt="9"/><br />
