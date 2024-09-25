@@ -79,11 +79,11 @@ In the Domain Controller, open "***Windows PowerShell ISE***" 🡪 again, make s
 
 Next, download de ***script*** from the following link:
 
-https://github.com/franciscovfonseca/Active-Directory-Powershell/blob/master/1_CREATE_USERS.ps1
+https://github.com/franciscovfonseca/Active-Directory-Powershell-Script/edit/main/README.md
 <br>
 <br>
 
-<img src="https://github.com/franciscovfonseca/Active-Directory-User-Generation/assets/172988970/47e3b80a-3a5b-47ec-87eb-9e3e841dfcc1" height="85%" width="85%" alt="9"/><br />
+<img src="https://github.com/user-attachments/assets/050c917b-55b1-4b85-a5e1-e06661f08a55" height="85%" width="85%" alt="9"/><br />
 <br>
 <br>
 
