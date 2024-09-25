@@ -77,7 +77,7 @@ In the Domain Controller, open "***Windows PowerShell ISE***" 🡪 again, make s
 <img src="https://github.com/franciscovfonseca/Active-Directory-User-Generation/assets/172988970/efda6f28-0577-4200-b6ec-a84ac7589b0e" height="85%" width="85%" alt="9"/><br />
 <br>
 
-Next, download de ***script*** from the following link:
+Next, download the ***script*** from the following link:
 
 https://github.com/franciscovfonseca/Active-Directory-Powershell-Script/edit/main/README.md
 <br>
